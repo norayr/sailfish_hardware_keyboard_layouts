@@ -144,7 +144,7 @@ I have added Programmer's Dvorak and Armenian typewriter layouts like this:
 ```
         ListElement {
             layout: "am"
-            name: "Armenian"
+            name: "Հայերէն"
         }
         ListElement {
             layout: "us(dvp)"
