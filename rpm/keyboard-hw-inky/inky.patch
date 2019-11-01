@@ -1,0 +1,18 @@
+78,94d77
+<             layout: "am"
+<             name: "Հայերէն"
+<         }
+<         ListElement {
+<             layout: "us(dvp)"
+<             name: "Programmers Dvorak"
+<         }
+<         ListElement {
+<             layout: "ge"
+<             name: "ქართული"
+<         }
+<         ListElement {
+<             layout: "ru(phonetic)"
+<             name: "русский (фонетическая раскладка)"
+<         }
+< 
+<         ListElement {
